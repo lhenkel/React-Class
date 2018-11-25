@@ -1,0 +1,1 @@
+ssh-agent bash -c 'ssh-add /c/Users/lee403/.ssh/id_rsa;'
